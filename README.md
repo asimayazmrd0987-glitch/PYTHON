@@ -1,7 +1,10 @@
-## PYTHON
+# PYTHON
 Python Programming.
-# Topic
+## Topic
 variables
+<br>
 datatypes
+<br>
 strings
+<br>
 conditional statements
