@@ -7,5 +7,4 @@ awareness = {
     "Hormone": "Normal"
 } 
 
-print(awareness)
-print(awareness["Subconscious"]["Mental_Health"])
+print(list(awareness.values()))
