@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=0:0F0F23,100:4A4E69&height=120&section=header&text=%20PYTHON&fontSize=36&fontColor=ffffff&animation=fadeIn)
+![](https://capsule-render.vercel.app/api?type=waving&color=0:4A0000,100:E74C3C&height=120&section=header&text=%20PYTHON&fontSize=36&fontColor=ffffff&animation=fadeIn)
 
 Python Programming.
 ## Topic
